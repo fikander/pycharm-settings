@@ -7,7 +7,6 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".pip.lst" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
-      <mapping pattern="Dockerfile" type="SnakeYAML" />
     </extensionMap>
   </component>
 </application>
