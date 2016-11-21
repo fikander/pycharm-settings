@@ -8,6 +8,7 @@
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".pip.lst" type="PLAIN_TEXT" />
       <mapping pattern=".experian_id_verification.env" type="PLAIN_TEXT" />
+      <mapping pattern=".pylint.rc" type="PLAIN_TEXT" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
