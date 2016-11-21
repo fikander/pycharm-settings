@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.hprof;*.orig;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="experian_auth" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping pattern=".pylint.rc" type="PLAIN_TEXT" />
       <mapping pattern=".experian_credit_profile.env" type="PLAIN_TEXT" />
