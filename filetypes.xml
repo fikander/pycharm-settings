@@ -11,8 +11,10 @@
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="run" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="id_rsa" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern=".pip.lst" type="PLAIN_TEXT" />
+      <mapping ext="pub" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
